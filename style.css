@@ -234,7 +234,7 @@ section#gallery div img:hover {
   transition-behavior: smooth;
 }
 section.quote {
-  background: url("img/potbar.png") no-repeat;
+  background: url("Img/potbar.png") no-repeat;
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
